@@ -146,6 +146,16 @@ In the future (when translation teams start getting bigger), it might be a good
 idea to develop local style guides.
 
 
+Become a proofreader
+====================
+Community-driven translations form the backbone of our work.
+Huge thanks to all translators and proofreaders for their invaluable contributions!
+
+Please contact our localization team via email at `localization@typo3.org`_. to request the role of a proofreader.
+
+..  _localization@typo3.org: mailto:localization@typo3.org
+
+
 Links
 =====
 
